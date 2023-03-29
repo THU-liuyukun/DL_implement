@@ -4,7 +4,7 @@
 
 ## 摘要
 
-ViT（Vision Transformer）的强大性能是来自于Attention还是patch？
+ViT这种架构强大的性能是来自 Transformer，还是由于使用patch作为输入表示实现的？
 
 该研究提出了 ConvMixer，这是一个极其简单的模型，在思想上与 ViT 和更基本的 MLP-Mixer 相似，这些模型直接将 patch 作为输入进行操作，分离空间和通道维度的混合，并在整个网络中保持相同的大小和分辨率。然而，相比之下，该研究提出的 ConvMixer 仅使用标准卷积来实现混合步骤。尽管它很简单，但研究表明，除了优于 ResNet 等经典视觉模型之外，ConvMixer 在类似的参数计数和数据集大小方面也优于 ViT、MLP-Mixer 及其一些变体。
 
