@@ -6,12 +6,8 @@
 
 1. [Dropout](https://github.com/SolitudeFate/DL_implement/tree/master/Dropout)
 
-2. R-Dropout
+2. [R-Dropout](https://github.com/SolitudeFate/DL_implement/tree/master/R_Dropout)
 
-3. ResBlock
+3. [ResBlock](https://github.com/SolitudeFate/DL_implement/tree/master/ResBlock)
 
-4. ConvMixer
-
-
-
-
+4. [ConvMixer](https://github.com/SolitudeFate/DL_implement/tree/master/ConvMixer)
