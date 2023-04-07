@@ -1,4 +1,4 @@
-# 卷积残差模块算子融合
+# ResBlock 卷积残差模块算子融合
 
 + 论文链接：[RepVGG: Making VGG-style ConvNets Great Again](https://arxiv.org/abs/2101.03697)
 
