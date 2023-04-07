@@ -4,7 +4,7 @@
 
 # 学习顺序
 
-1. Dropout
+1. ![Dropout](https://github.com/SolitudeFate/DL_implement/tree/master/Dropout)
 
 2. R-Dropout
 
